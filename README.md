@@ -17,6 +17,7 @@ here we can see the linearized state space matrixes.
 - ## Phase 2
 After indentifying the system and obtaining the minimal subsytem, we use state feedback controller and simulated it in simulink and then we added static pre-compensator and dynamic pre-compensator in order to make the system performes better in reference signal tracking.
 Here is the result of adding controller and pre-compensator.
+
 <img width="473" alt="Screen Shot 1402-02-21 at 23 17 41" src="https://github.com/ReyhanehAhani/Four_Tank_System/assets/88882191/6d94af86-609a-40c9-8334-33ece81ad90e">
 <img width="610" alt="Screen Shot 1402-02-21 at 23 18 56" src="https://github.com/ReyhanehAhani/Four_Tank_System/assets/88882191/205f99c5-369b-44b2-8d1e-749d7606114e">
 <img width="611" alt="Screen Shot 1402-02-21 at 23 19 38" src="https://github.com/ReyhanehAhani/Four_Tank_System/assets/88882191/e555abfa-e80a-415e-9645-ee7d7e7df4d1">
