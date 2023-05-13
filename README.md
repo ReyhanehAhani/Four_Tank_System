@@ -1,7 +1,7 @@
 
 # Controlling Four Tank System
 
-This project is consis of three phases. In each phase we test and simulate the system using MATLAB Simulink.
+This project is consist of three phases. In each phase we test and simulate the system using MATLAB Simulink.
 
 
 
